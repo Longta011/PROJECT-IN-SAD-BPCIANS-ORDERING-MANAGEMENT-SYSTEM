@@ -1,0 +1,50 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="Current" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <Compile Update="About-us.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Form1.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="OrderSummary.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Order_Details.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="ProductOption.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="receipt.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="shop_deptShirt.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="shop_int.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="shop_Others.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="shop_SchoolUnif.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="SIZES_OrderDetails.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="SIZES_OrderSummary.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="SIZES_ProductOptions.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="SIZES_Receipt.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Size_guide.cs">
+      <SubType>Form</SubType>
+    </Compile>
+  </ItemGroup>
+</Project>

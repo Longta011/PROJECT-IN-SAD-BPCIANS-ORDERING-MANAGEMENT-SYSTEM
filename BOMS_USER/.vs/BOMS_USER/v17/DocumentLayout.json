@@ -1,0 +1,317 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\FOR VS PROJECT CODE\\BOMS_USER\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{F80BC7D4-FF34-4F8B-AF99-38E717DC2F5E}|BOMS_USER\\BOMS_USER.csproj|c:\\for vs project code\\boms_user\\boms_user\\shop_int.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F80BC7D4-FF34-4F8B-AF99-38E717DC2F5E}|BOMS_USER\\BOMS_USER.csproj|solutionrelative:boms_user\\shop_int.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F80BC7D4-FF34-4F8B-AF99-38E717DC2F5E}|BOMS_USER\\BOMS_USER.csproj|C:\\FOR VS PROJECT CODE\\BOMS_USER\\boms_user\\shop_int.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{F80BC7D4-FF34-4F8B-AF99-38E717DC2F5E}|BOMS_USER\\BOMS_USER.csproj|solutionrelative:boms_user\\shop_int.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F80BC7D4-FF34-4F8B-AF99-38E717DC2F5E}|BOMS_USER\\BOMS_USER.csproj|c:\\for vs project code\\boms_user\\boms_user\\ordersummary.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F80BC7D4-FF34-4F8B-AF99-38E717DC2F5E}|BOMS_USER\\BOMS_USER.csproj|solutionrelative:boms_user\\ordersummary.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F80BC7D4-FF34-4F8B-AF99-38E717DC2F5E}|BOMS_USER\\BOMS_USER.csproj|C:\\FOR VS PROJECT CODE\\BOMS_USER\\boms_user\\ordersummary.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{F80BC7D4-FF34-4F8B-AF99-38E717DC2F5E}|BOMS_USER\\BOMS_USER.csproj|solutionrelative:boms_user\\ordersummary.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F80BC7D4-FF34-4F8B-AF99-38E717DC2F5E}|BOMS_USER\\BOMS_USER.csproj|c:\\for vs project code\\boms_user\\boms_user\\order_details.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F80BC7D4-FF34-4F8B-AF99-38E717DC2F5E}|BOMS_USER\\BOMS_USER.csproj|solutionrelative:boms_user\\order_details.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F80BC7D4-FF34-4F8B-AF99-38E717DC2F5E}|BOMS_USER\\BOMS_USER.csproj|C:\\FOR VS PROJECT CODE\\BOMS_USER\\boms_user\\order_details.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{F80BC7D4-FF34-4F8B-AF99-38E717DC2F5E}|BOMS_USER\\BOMS_USER.csproj|solutionrelative:boms_user\\order_details.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F80BC7D4-FF34-4F8B-AF99-38E717DC2F5E}|BOMS_USER\\BOMS_USER.csproj|C:\\FOR VS PROJECT CODE\\BOMS_USER\\boms_user\\productoption.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{F80BC7D4-FF34-4F8B-AF99-38E717DC2F5E}|BOMS_USER\\BOMS_USER.csproj|solutionrelative:boms_user\\productoption.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F80BC7D4-FF34-4F8B-AF99-38E717DC2F5E}|BOMS_USER\\BOMS_USER.csproj|c:\\for vs project code\\boms_user\\boms_user\\receipt.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F80BC7D4-FF34-4F8B-AF99-38E717DC2F5E}|BOMS_USER\\BOMS_USER.csproj|solutionrelative:boms_user\\receipt.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F80BC7D4-FF34-4F8B-AF99-38E717DC2F5E}|BOMS_USER\\BOMS_USER.csproj|C:\\FOR VS PROJECT CODE\\BOMS_USER\\boms_user\\receipt.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{F80BC7D4-FF34-4F8B-AF99-38E717DC2F5E}|BOMS_USER\\BOMS_USER.csproj|solutionrelative:boms_user\\receipt.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F80BC7D4-FF34-4F8B-AF99-38E717DC2F5E}|BOMS_USER\\BOMS_USER.csproj|c:\\for vs project code\\boms_user\\boms_user\\sizes_receipt.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F80BC7D4-FF34-4F8B-AF99-38E717DC2F5E}|BOMS_USER\\BOMS_USER.csproj|solutionrelative:boms_user\\sizes_receipt.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F80BC7D4-FF34-4F8B-AF99-38E717DC2F5E}|BOMS_USER\\BOMS_USER.csproj|C:\\FOR VS PROJECT CODE\\BOMS_USER\\boms_user\\sizes_receipt.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{F80BC7D4-FF34-4F8B-AF99-38E717DC2F5E}|BOMS_USER\\BOMS_USER.csproj|solutionrelative:boms_user\\sizes_receipt.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F80BC7D4-FF34-4F8B-AF99-38E717DC2F5E}|BOMS_USER\\BOMS_USER.csproj|C:\\FOR VS PROJECT CODE\\BOMS_USER\\boms_user\\shop_schoolunif.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{F80BC7D4-FF34-4F8B-AF99-38E717DC2F5E}|BOMS_USER\\BOMS_USER.csproj|solutionrelative:boms_user\\shop_schoolunif.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F80BC7D4-FF34-4F8B-AF99-38E717DC2F5E}|BOMS_USER\\BOMS_USER.csproj|c:\\for vs project code\\boms_user\\boms_user\\shop_schoolunif.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F80BC7D4-FF34-4F8B-AF99-38E717DC2F5E}|BOMS_USER\\BOMS_USER.csproj|solutionrelative:boms_user\\shop_schoolunif.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F80BC7D4-FF34-4F8B-AF99-38E717DC2F5E}|BOMS_USER\\BOMS_USER.csproj|c:\\for vs project code\\boms_user\\boms_user\\shop_others.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F80BC7D4-FF34-4F8B-AF99-38E717DC2F5E}|BOMS_USER\\BOMS_USER.csproj|solutionrelative:boms_user\\shop_others.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F80BC7D4-FF34-4F8B-AF99-38E717DC2F5E}|BOMS_USER\\BOMS_USER.csproj|C:\\FOR VS PROJECT CODE\\BOMS_USER\\boms_user\\shop_others.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{F80BC7D4-FF34-4F8B-AF99-38E717DC2F5E}|BOMS_USER\\BOMS_USER.csproj|solutionrelative:boms_user\\shop_others.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F80BC7D4-FF34-4F8B-AF99-38E717DC2F5E}|BOMS_USER\\BOMS_USER.csproj|c:\\for vs project code\\boms_user\\boms_user\\shop_deptshirt.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F80BC7D4-FF34-4F8B-AF99-38E717DC2F5E}|BOMS_USER\\BOMS_USER.csproj|solutionrelative:boms_user\\shop_deptshirt.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F80BC7D4-FF34-4F8B-AF99-38E717DC2F5E}|BOMS_USER\\BOMS_USER.csproj|C:\\FOR VS PROJECT CODE\\BOMS_USER\\boms_user\\shop_deptshirt.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{F80BC7D4-FF34-4F8B-AF99-38E717DC2F5E}|BOMS_USER\\BOMS_USER.csproj|solutionrelative:boms_user\\shop_deptshirt.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F80BC7D4-FF34-4F8B-AF99-38E717DC2F5E}|BOMS_USER\\BOMS_USER.csproj|c:\\for vs project code\\boms_user\\boms_user\\productoption.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F80BC7D4-FF34-4F8B-AF99-38E717DC2F5E}|BOMS_USER\\BOMS_USER.csproj|solutionrelative:boms_user\\productoption.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 9,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{b1e99781-ab81-11d0-b683-00aa00a3ee26}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{e5c86464-96be-4d7c-9a8b-abcb3bbf5f92}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "OrderSummary.cs",
+              "DocumentMoniker": "C:\\FOR VS PROJECT CODE\\BOMS_USER\\BOMS_USER\\OrderSummary.cs",
+              "RelativeDocumentMoniker": "BOMS_USER\\OrderSummary.cs",
+              "ToolTip": "C:\\FOR VS PROJECT CODE\\BOMS_USER\\BOMS_USER\\OrderSummary.cs",
+              "RelativeToolTip": "BOMS_USER\\OrderSummary.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACwAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-07T01:30:50.98Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "OrderSummary.cs [Design]",
+              "DocumentMoniker": "C:\\FOR VS PROJECT CODE\\BOMS_USER\\BOMS_USER\\OrderSummary.cs",
+              "RelativeDocumentMoniker": "BOMS_USER\\OrderSummary.cs",
+              "ToolTip": "C:\\FOR VS PROJECT CODE\\BOMS_USER\\BOMS_USER\\OrderSummary.cs [Design]",
+              "RelativeToolTip": "BOMS_USER\\OrderSummary.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-07T01:30:49.303Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Order_Details.cs",
+              "DocumentMoniker": "C:\\FOR VS PROJECT CODE\\BOMS_USER\\BOMS_USER\\Order_Details.cs",
+              "RelativeDocumentMoniker": "BOMS_USER\\Order_Details.cs",
+              "ToolTip": "C:\\FOR VS PROJECT CODE\\BOMS_USER\\BOMS_USER\\Order_Details.cs",
+              "RelativeToolTip": "BOMS_USER\\Order_Details.cs",
+              "ViewState": "AgIAAIoAAAAAAAAAAAAqwDQAAABUAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-07T01:26:20.591Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Order_Details.cs [Design]",
+              "DocumentMoniker": "C:\\FOR VS PROJECT CODE\\BOMS_USER\\BOMS_USER\\Order_Details.cs",
+              "RelativeDocumentMoniker": "BOMS_USER\\Order_Details.cs",
+              "ToolTip": "C:\\FOR VS PROJECT CODE\\BOMS_USER\\BOMS_USER\\Order_Details.cs [Design]",
+              "RelativeToolTip": "BOMS_USER\\Order_Details.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-07T01:26:14.064Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "SIZES_Receipt.cs",
+              "DocumentMoniker": "C:\\FOR VS PROJECT CODE\\BOMS_USER\\BOMS_USER\\SIZES_Receipt.cs",
+              "RelativeDocumentMoniker": "BOMS_USER\\SIZES_Receipt.cs",
+              "ToolTip": "C:\\FOR VS PROJECT CODE\\BOMS_USER\\BOMS_USER\\SIZES_Receipt.cs",
+              "RelativeToolTip": "BOMS_USER\\SIZES_Receipt.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-07T00:29:48.482Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "SIZES_Receipt.cs [Design]",
+              "DocumentMoniker": "C:\\FOR VS PROJECT CODE\\BOMS_USER\\BOMS_USER\\SIZES_Receipt.cs",
+              "RelativeDocumentMoniker": "BOMS_USER\\SIZES_Receipt.cs",
+              "ToolTip": "C:\\FOR VS PROJECT CODE\\BOMS_USER\\BOMS_USER\\SIZES_Receipt.cs [Design]",
+              "RelativeToolTip": "BOMS_USER\\SIZES_Receipt.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-07T00:29:44.102Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "receipt.cs",
+              "DocumentMoniker": "C:\\FOR VS PROJECT CODE\\BOMS_USER\\BOMS_USER\\receipt.cs",
+              "RelativeDocumentMoniker": "BOMS_USER\\receipt.cs",
+              "ToolTip": "C:\\FOR VS PROJECT CODE\\BOMS_USER\\BOMS_USER\\receipt.cs",
+              "RelativeToolTip": "BOMS_USER\\receipt.cs",
+              "ViewState": "AgIAAFEAAAAAAAAAAADwv18AAAAdAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-07T00:29:37.233Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "shop_int.cs",
+              "DocumentMoniker": "C:\\FOR VS PROJECT CODE\\BOMS_USER\\BOMS_USER\\shop_int.cs",
+              "RelativeDocumentMoniker": "BOMS_USER\\shop_int.cs",
+              "ToolTip": "C:\\FOR VS PROJECT CODE\\BOMS_USER\\BOMS_USER\\shop_int.cs",
+              "RelativeToolTip": "BOMS_USER\\shop_int.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAwHUBAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-06T21:13:22.355Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "shop_int.cs [Design]",
+              "DocumentMoniker": "C:\\FOR VS PROJECT CODE\\BOMS_USER\\BOMS_USER\\shop_int.cs",
+              "RelativeDocumentMoniker": "BOMS_USER\\shop_int.cs",
+              "ToolTip": "C:\\FOR VS PROJECT CODE\\BOMS_USER\\BOMS_USER\\shop_int.cs [Design]",
+              "RelativeToolTip": "BOMS_USER\\shop_int.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-01T15:25:28.307Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "shop_SchoolUnif.cs",
+              "DocumentMoniker": "C:\\FOR VS PROJECT CODE\\BOMS_USER\\BOMS_USER\\shop_SchoolUnif.cs",
+              "RelativeDocumentMoniker": "BOMS_USER\\shop_SchoolUnif.cs",
+              "ToolTip": "C:\\FOR VS PROJECT CODE\\BOMS_USER\\BOMS_USER\\shop_SchoolUnif.cs",
+              "RelativeToolTip": "BOMS_USER\\shop_SchoolUnif.cs",
+              "ViewState": "AgIAAGsAAAAAAAAAAAAswJ4AAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-06T21:11:09.679Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "shop_SchoolUnif.cs [Design]",
+              "DocumentMoniker": "C:\\FOR VS PROJECT CODE\\BOMS_USER\\BOMS_USER\\shop_SchoolUnif.cs",
+              "RelativeDocumentMoniker": "BOMS_USER\\shop_SchoolUnif.cs",
+              "ToolTip": "C:\\FOR VS PROJECT CODE\\BOMS_USER\\BOMS_USER\\shop_SchoolUnif.cs [Design]",
+              "RelativeToolTip": "BOMS_USER\\shop_SchoolUnif.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-06T21:11:07.724Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "shop_Others.cs",
+              "DocumentMoniker": "C:\\FOR VS PROJECT CODE\\BOMS_USER\\BOMS_USER\\shop_Others.cs",
+              "RelativeDocumentMoniker": "BOMS_USER\\shop_Others.cs",
+              "ToolTip": "C:\\FOR VS PROJECT CODE\\BOMS_USER\\BOMS_USER\\shop_Others.cs",
+              "RelativeToolTip": "BOMS_USER\\shop_Others.cs",
+              "ViewState": "AgIAAKcAAAAAAAAAAAAuwLYAAAAVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-06T21:08:54.535Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "shop_Others.cs [Design]",
+              "DocumentMoniker": "C:\\FOR VS PROJECT CODE\\BOMS_USER\\BOMS_USER\\shop_Others.cs",
+              "RelativeDocumentMoniker": "BOMS_USER\\shop_Others.cs",
+              "ToolTip": "C:\\FOR VS PROJECT CODE\\BOMS_USER\\BOMS_USER\\shop_Others.cs [Design]",
+              "RelativeToolTip": "BOMS_USER\\shop_Others.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-06T21:08:53.467Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "shop_deptShirt.cs",
+              "DocumentMoniker": "C:\\FOR VS PROJECT CODE\\BOMS_USER\\BOMS_USER\\shop_deptShirt.cs",
+              "RelativeDocumentMoniker": "BOMS_USER\\shop_deptShirt.cs",
+              "ToolTip": "C:\\FOR VS PROJECT CODE\\BOMS_USER\\BOMS_USER\\shop_deptShirt.cs",
+              "RelativeToolTip": "BOMS_USER\\shop_deptShirt.cs",
+              "ViewState": "AgIAAJQAAAAAAAAAAAAAAJoAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-06T21:08:40.944Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "shop_deptShirt.cs [Design]",
+              "DocumentMoniker": "C:\\FOR VS PROJECT CODE\\BOMS_USER\\BOMS_USER\\shop_deptShirt.cs",
+              "RelativeDocumentMoniker": "BOMS_USER\\shop_deptShirt.cs",
+              "ToolTip": "C:\\FOR VS PROJECT CODE\\BOMS_USER\\BOMS_USER\\shop_deptShirt.cs [Design]",
+              "RelativeToolTip": "BOMS_USER\\shop_deptShirt.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-06T21:08:39.238Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "ProductOption.cs",
+              "DocumentMoniker": "C:\\FOR VS PROJECT CODE\\BOMS_USER\\BOMS_USER\\ProductOption.cs",
+              "RelativeDocumentMoniker": "BOMS_USER\\ProductOption.cs",
+              "ToolTip": "C:\\FOR VS PROJECT CODE\\BOMS_USER\\BOMS_USER\\ProductOption.cs",
+              "RelativeToolTip": "BOMS_USER\\ProductOption.cs",
+              "ViewState": "AgIAAEAAAAAAAAAAAAAcwFIAAAAnAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-06T19:59:11.835Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "ProductOption.cs [Design]",
+              "DocumentMoniker": "C:\\FOR VS PROJECT CODE\\BOMS_USER\\BOMS_USER\\ProductOption.cs",
+              "RelativeDocumentMoniker": "BOMS_USER\\ProductOption.cs",
+              "ToolTip": "C:\\FOR VS PROJECT CODE\\BOMS_USER\\BOMS_USER\\ProductOption.cs [Design]",
+              "RelativeToolTip": "BOMS_USER\\ProductOption.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-06T19:59:06.474Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "receipt.cs [Design]",
+              "DocumentMoniker": "C:\\FOR VS PROJECT CODE\\BOMS_USER\\BOMS_USER\\receipt.cs",
+              "RelativeDocumentMoniker": "BOMS_USER\\receipt.cs",
+              "ToolTip": "C:\\FOR VS PROJECT CODE\\BOMS_USER\\BOMS_USER\\receipt.cs [Design]",
+              "RelativeToolTip": "BOMS_USER\\receipt.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-01T09:13:07.101Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

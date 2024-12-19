@@ -1,0 +1,74 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="Current" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <Compile Update="AddItem.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="AddItem_Size.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="ADMIN_acc%28admin%29.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="ADMIN_int%28attendace%29.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="ADMIN_int%28DEPTSHIRT%29.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="ADMIN_int%28Item%29.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="ADMIN_int%28Order%29.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="ADMIN_int%28Others%29.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="ADMIN_int%28SchoolUnif%29.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="ADMIN_int.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="ADMIN_Profile.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="ADMIN_SUPPLIER.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="EDIT_PRODUCT.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Forget_Email.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Forgot_OTP.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Forgot_RP.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="INVENTORY.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="INVENTORY_SIZES.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Login.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="ST_HISTORY.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="ST_INVENTORY.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="ST_POS.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="ST_SUPPLIER.cs">
+      <SubType>Form</SubType>
+    </Compile>
+  </ItemGroup>
+</Project>
